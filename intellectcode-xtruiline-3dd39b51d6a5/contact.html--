@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>:: Contact Us ::</title>
+<link rel="stylesheet" href="css/style.css" type="text/css" />
+<!--
+http://w3layouts.com/preview/?l=/bak-one-singlepage-flat-corporate-responsive-website-template
+-->
+<script src="js/jquery.js"></script>
+<script src="js/skdslider.min.js"></script>
+<link href="css/skdslider.css" rel="stylesheet" />
+<script type="text/javascript">
+jQuery(document).ready(function(){
+jQuery('#demo1').skdslider({'delay':5000, 'animationSpeed': 2000,'showNextPrev':false,'showPlayButton':false,'autoSlide':true,'animationType':'fading'});
+jQuery('#responsive').change(function(){
+ $('#responsive_wrapper').width(jQuery(this).val());
+});
+});
+</script>
+</head>
+<body>
+<header>
+  <div class="wrapperbx">
+    <div class="logobx"> <a href="index.html" title="Welcome to Xtruline"><img src="images/logo.jpg" alt="Xtruline logo" /></a></div>
+    <div class="nav">
+      <ul>
+        <li ><a href="index.html">Home</a></li>
+        <li ><a href="about.html">About us</a>
+          
+        </li>
+        <li><a href="products.html"> Products</a></li>
+        <li><a href="competences.html">Competences</a></li>
+        <li><a href="infrastructure.html">Infrastructure</a></li>
+        <li><a href="materials.html">Materials</a></li>
+        
+        <li><a href="enquiry.html">Enquiry</a></li>
+        <li class="active"><a href="#">contact us</a></li>
+        <!--<li><a href="#">En</a></li> -->
+        <div class="clear"> </div>
+      </ul>
+    </div>
+    <div class="clr"></div>
+  </div>
+</header>
+<div class="contact-banner">
+  <div class="banner-hd">Contact Us</div>
+</div>
+<div class="clr"></div>
+<div id="about-container">
+  <div class="about-left" style="height:auto;">
+    <h1>Contact Details</h1>
+    <div class="contact-details">
+      <div style="float:left; width:370px;">
+        <table cellpadding="0" cellspacing="0" align="center" width="320" style="font-size:14px;">
+          <tr>
+            <td colspan="2"><h2>Please correspond at</h2></td>
+          </tr>
+          
+          <tr>
+          <td colspan="2">
+          <span class="font-bold">XTRULINE</span><br>
+
+(A unit of Seiki Auto India Pvt. Ltd.)
+          </td>
+          
+          </tr>
+          
+          <tr>
+            <td colspan="2" height="10"></td>
+          </tr>
+          <tr>
+            <td valign="top"><img src="images/location-icon.png"  /></td>
+            <td><span class="txt-color" style="font-weight:bold;">Address:</span> <br>
+              B-II/29, Mohan Co-operative Industrial Estate, <br>
+              Badarpur Border, <br>
+              New Delhi-110044 </td>
+          </tr>
+          <tr>
+            <td colspan="2">&nbsp;</td>
+          </tr>
+          <tr>
+            <td valign="top"><img src="images/phone-icon.png" /></td>
+            <td><span class="txt-color" style="font-weight:bold;">Toll Free No:</span><br>
+              1800 11 4050<br /></td>
+          </tr>
+          <tr>
+            <td colspan="2">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><img src="images/email-icon.png" /></td>
+            <td valign="top"><span class="txt-color" style="font-weight:bold;">Email Id:</span> <br>
+              <a href="mailto:info@Xtruline.com" style="color: #333333;">info@Xtruline.com</a></td>
+          </tr>
+          
+            <td colspan="2">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><img src="images/fax-icon.png" /></td>
+            <td valign="top"><span class="txt-color" style="font-weight:bold;">Fax:</span> <br>
+              011-41677252</td>
+          </tr>
+          <tr>
+            <td colspan="2">&nbsp;</td>
+          </tr>
+          <tr>
+            <td colspan="2">&nbsp;</td>
+          </tr>
+        </table>
+      </div>
+      <div style=" float:right;  width:210px;">
+        <table cellpadding="0" cellspacing="0" align="center" width="190" style="font-size:14px;">
+          <tr>
+            <td colspan="2"><h2>For Sales Enquiry</h2></td>
+          </tr>
+          <tr>
+            <td colspan="2" height="10"></td>
+          </tr>
+          <tr>
+            <td valign="top"><img src="images/contact-icon.png" /></td>
+            <td ><span class="font-bold">Mr. Piyush Sareen</span><br>
+             +91-7428160059<br /></td>
+          </tr>
+          <tr>
+            <td colspan="2">&nbsp;</td>
+          </tr>
+          <tr>
+            <td valign="top"><img src="images/contact-icon.png" /></td>
+            <td><span class="font-bold">Mr. Ankit Sharma</span><br>
+              +91-9313856388<br /></td>
+              
+              
+          </tr>
+          <tr>
+            <td colspan="2">&nbsp;</td>
+          </tr>
+          <tr>
+            <td colspan="2">&nbsp;</td>
+          </tr>
+        </table>
+      </div>
+      <div style="clear:"></div>
+    </div>
+    <div class="map">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m29!1m12!1m3!1d56106.71383415488!2d77.26795402917844!3d28.489494825640108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m14!1i0!3e6!4m5!1s0x390ce6c91279bf07%3A0xa55721e1636a1654!2sMOHAN+COOPERATIVE+INDUSTRIAL+ESTATE!3m2!1d28.4894237!2d77.30228679999999!4m5!1s0x390ce6c91279bf07%3A0xa55721e1636a1654!2sMohan+Cooperative+Industrial+Estate%2C+Badarpur%2C+New+Delhi%2C+Delhi!3m2!1d28.4894237!2d77.30228679999999!5e0!3m2!1sen!2sin!4v1397820576252" width="608" height="200" frameborder="0" style="border:0"></iframe>
+    </div>
+  </div>
+  <div class="right-sidemn">
+    <div class="enqry-outer">
+      <div class="enqry-inner">
+        <h1><img src="images/enqry-icon.png">Enquiry Form</h1>
+        <input type="text" class="enqry-name" placeholder="Your Name">
+        <input type="text" class="enqry-name" placeholder="Your Email Address">
+        <input type="text" class="enqry-name" placeholder="Your Phone Number">
+        <textarea class="message" placeholder="Your Message"> </textarea>
+        <input type="button" class="submit" value="Submit Now !">
+      </div>
+    </div>
+  </div>
+</div>
+<div class="clr"></div>
+<footer>
+  <div class="ftrbg">
+    <div class="wrapperbx">
+      <div class="callus">Call Us: 1800 11 4050</div>
+      <div class="botomnav"><a href="index.html">Home</a> <a href="about.html">About us</a> <a href="http://www.ajaypipes.com/ " target="_blank">Group Company</a> <a href="media.html">Media</a> <a href="#">Contact us</a> </div>
+    </div>
+    <div class="clr"></div>
+  </div>
+  <div class="wrapperbx" style="padding:10px 0;">
+    <div class="copyrigh">Copyright @ Xtruline &nbsp; | &nbsp; Powered by <a href="http://www.flagscommunications.com/" target="_blank">Flags Communications</a></div>
+    <div class="rightbx">Connect with us:
+      <div class="social">
+        <ul class="social">
+          <li class="facebook"><a href="http://www.facebook.com/mainlinepower" target="_blank"> </a></li>
+          <li class="twitter"><a href="http://www.twitter.com/mainlinepower" target="_blank"> </a></li>
+          <li class="linkedin"><a href="http://www.youtube.com/mainlinepower" target="_blank"> </a></li>
+          <li class="linkedin2"><a href="https://www.linkedin.com/company/mainline-power" target="_blank"> </a></li>
+          <li class="mainline"><a href="http://mainlinepower.com/" target="_blank"> </a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="clr"></div>
+  </div>
+</footer>
+</body>
+</html>

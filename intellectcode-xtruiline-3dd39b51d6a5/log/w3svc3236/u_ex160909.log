@@ -1,0 +1,178 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-09-08 20:31:38
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-09-08 20:31:38 W3SVC3236 GET /robots.txt - - 66.249.69.198 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.xtruline.com 404 0 2 1405 226 643
+2016-09-08 20:31:39 W3SVC3236 GET / - - 66.249.69.193 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.xtruline.com 200 0 0 5136 293 744
+2016-09-08 20:31:46 W3SVC3236 GET /css/skdslider.css - - 66.249.69.193 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.xtruline.com 200 0 0 2366 250 256
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-09-08 22:43:40
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-09-08 22:43:40 W3SVC3236 GET /images/quality-assurance-big.jpg - - 163.172.65.41 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.1;++http://ahrefs.com/robot/) - - www.xtruline.com 200 0 64 0 199 855
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-09-08 23:21:43
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-09-08 23:21:43 W3SVC3236 GET /robots.txt - - 69.30.210.242 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - xtruline.com 404 0 2 1424 173 832
+2016-09-08 23:21:47 W3SVC3236 GET /infrastructure.html - - 69.30.210.242 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - xtruline.com 200 0 0 10849 393 986
+2016-09-08 23:21:49 W3SVC3236 GET /media.html - - 69.30.210.242 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - xtruline.com 200 0 0 8523 407 1047
+2016-09-08 23:21:52 W3SVC3236 GET /products.html - - 69.30.210.242 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - xtruline.com 200 0 0 23602 410 1241
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-09-08 23:39:50
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-09-08 23:39:50 W3SVC3236 GET /infrastructure.html - - 40.77.167.34 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - xtruline.com 304 0 0 211 372 252
+2016-09-08 23:54:57 W3SVC3236 GET / - - 66.249.75.41 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.xtruline.com 200 0 0 5136 293 691
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-09-09 03:11:47
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-09-09 03:11:46 W3SVC3236 GET / - - 94.242.246.24 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/37.0.2062.120+Safari/537.36 - http://burger-imperia.com/ xtruline.com 200 0 0 5136 238 584
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-09-09 03:42:57
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-09-09 03:42:57 W3SVC3236 GET /robots.txt - - 51.255.207.3 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - xtruline.com 404 0 2 1424 173 629
+2016-09-09 03:43:00 W3SVC3236 GET /about.html - - 51.255.207.3 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - xtruline.com 200 0 0 11814 384 1040
+2016-09-09 03:43:02 W3SVC3236 GET /competences.html - - 51.255.207.3 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - xtruline.com 200 0 0 13638 413 979
+2016-09-09 03:43:05 W3SVC3236 GET /contact.html - - 51.255.207.3 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - xtruline.com 200 0 0 6805 409 726
+2016-09-09 03:54:47 W3SVC3236 GET /images/cycoloy-big.jpg - - 189.159.37.109 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.2;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - https://www.google.com.mx/ www.xtruline.com 200 0 0 83249 357 5150
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-09-09 04:25:56
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-09-09 04:25:56 W3SVC3236 GET / author=1 - 94.23.168.141 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:28.0)+Gecko/20100101+Firefox/28.0 - - xtruline.com 200 0 0 5136 286 843
+2016-09-09 04:25:56 W3SVC3236 GET /administrator/index.php - - 94.23.168.141 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:28.0)+Gecko/20100101+Firefox/28.0 - - xtruline.com 404 0 2 1405 300 240
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-09-09 05:19:25
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-09-09 05:19:24 W3SVC3236 GET / - - 66.249.79.5 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.xtruline.com 200 0 0 5136 293 759
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-09-09 05:58:24
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-09-09 05:58:24 W3SVC3236 GET /robots.txt - - 186.18.133.176 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.xtruline.com 404 0 2 1424 177 1177
+2016-09-09 05:58:29 W3SVC3236 GET / - - 186.18.133.176 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.xtruline.com 200 0 0 5155 378 3243
+2016-09-09 06:11:53 W3SVC3236 GET / - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - - xtruline.com 200 0 0 5136 371 167
+2016-09-09 06:11:53 W3SVC3236 GET /css/skdslider.css - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/ xtruline.com 200 0 0 2366 333 121
+2016-09-09 06:11:53 W3SVC3236 GET /css/style.css - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/ xtruline.com 200 0 0 20573 329 184
+2016-09-09 06:11:53 W3SVC3236 GET /js/skdslider.min.js - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/ xtruline.com 200 0 0 5462 320 178
+2016-09-09 06:11:53 W3SVC3236 GET /images/logo.jpg - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/ xtruline.com 200 0 0 31648 341 619
+2016-09-09 06:11:55 W3SVC3236 GET /images/slide1.jpg - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/ xtruline.com 200 0 0 79597 343 1627
+2016-09-09 06:11:56 W3SVC3236 GET /images/slide3.jpg - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/ xtruline.com 200 0 0 70010 343 818
+2016-09-09 06:11:57 W3SVC3236 GET /js/jquery.js - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/ xtruline.com 200 0 0 283209 313 5349
+2016-09-09 06:11:59 W3SVC3236 GET /images/slide6.jpg - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/ xtruline.com 200 0 0 191773 343 2439
+2016-09-09 06:11:59 W3SVC3236 GET /images/socialmedia2.png - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/css/style.css xtruline.com 200 0 0 12338 362 177
+2016-09-09 06:11:59 W3SVC3236 GET /images/slide-bg.png - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/css/skdslider.css xtruline.com 200 0 0 3191 362 98
+2016-09-09 06:11:59 W3SVC3236 GET /images/slide-bg-active.png - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/css/skdslider.css xtruline.com 200 0 0 3219 369 202
+2016-09-09 06:11:59 W3SVC3236 GET /images/slide5.jpg - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/ xtruline.com 200 0 0 51977 343 739
+2016-09-09 06:11:59 W3SVC3236 GET /images/slide2.jpg - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/ xtruline.com 200 0 0 111068 343 908
+2016-09-09 06:12:00 W3SVC3236 GET /images/slide4.jpg - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/ xtruline.com 200 0 0 200337 343 1445
+2016-09-09 06:12:00 W3SVC3236 GET /favicon.ico - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/ xtruline.com 404 0 2 1405 312 56
+2016-09-09 06:12:08 W3SVC3236 GET /contact.html - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/ xtruline.com 200 0 0 6786 414 69
+2016-09-09 06:12:08 W3SVC3236 GET /images/location-icon.png - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/contact.html xtruline.com 200 0 0 3363 362 73
+2016-09-09 06:12:08 W3SVC3236 GET /images/email-icon.png - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/contact.html xtruline.com 200 0 0 3187 359 66
+2016-09-09 06:12:08 W3SVC3236 GET /images/phone-icon.png - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/contact.html xtruline.com 200 0 0 3411 359 76
+2016-09-09 06:12:08 W3SVC3236 GET /images/fax-icon.png - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/contact.html xtruline.com 200 0 0 3416 357 96
+2016-09-09 06:12:08 W3SVC3236 GET /images/enqry-icon.png - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/contact.html xtruline.com 200 0 0 6615 359 144
+2016-09-09 06:12:08 W3SVC3236 GET /images/red-line.png - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/css/style.css xtruline.com 200 0 0 3083 358 73
+2016-09-09 06:12:08 W3SVC3236 GET /images/contact-banner.jpg - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/css/style.css xtruline.com 200 0 0 14009 364 163
+2016-09-09 06:12:08 W3SVC3236 GET /images/about-bgline.jpg - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/css/style.css xtruline.com 200 0 0 10945 362 164
+2016-09-09 06:12:08 W3SVC3236 GET /images/enqry-bg.png - - 202.71.133.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - http://xtruline.com/css/style.css xtruline.com 200 0 0 9018 358 169
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-09-09 06:59:31
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-09-09 06:59:30 W3SVC3236 GET /robots.txt - - 5.255.253.85 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - xtruline.com 404 0 2 1405 182 580
+2016-09-09 06:59:34 W3SVC3236 GET /vision.html - - 141.8.142.64 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - xtruline.com 200 0 0 4353 288 641
+2016-09-09 07:07:19 W3SVC3236 GET /images/automotive-big.jpg - - 164.132.161.66 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.1;++http://ahrefs.com/robot/) - - www.xtruline.com 200 0 64 0 192 735
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-09-09 08:44:34
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-09-09 08:44:33 W3SVC3236 GET /images/research_development-small.jpg - - 40.77.167.34 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - xtruline.com 200 0 0 43973 304 2887
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-09-09 10:18:50
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-09-09 10:18:50 W3SVC3236 GET /products.html - - 180.76.15.26 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - xtruline.com 200 0 0 23602 227 98907
+2016-09-09 10:34:34 W3SVC3236 GET /css/style.css - - 180.76.15.138 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.xtruline.com 200 0 0 20592 231 1828
+2016-09-09 10:37:27 W3SVC3236 GET /images/slide3.jpg - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - https://www.google.co.in/ www.xtruline.com 200 0 0 70010 374 2078
+2016-09-09 10:37:28 W3SVC3236 GET / - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - https://www.google.co.in/ www.xtruline.com 200 0 0 5136 433 132
+2016-09-09 10:37:28 W3SVC3236 GET /css/skdslider.css - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/ www.xtruline.com 200 0 0 2366 363 234
+2016-09-09 10:37:29 W3SVC3236 GET /js/skdslider.min.js - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/ www.xtruline.com 200 0 0 5462 350 939
+2016-09-09 10:37:30 W3SVC3236 GET /css/style.css - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/ www.xtruline.com 200 0 0 20573 359 1755
+2016-09-09 10:37:30 W3SVC3236 GET /images/logo.jpg - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/ www.xtruline.com 200 0 0 31648 371 722
+2016-09-09 10:37:32 W3SVC3236 GET /images/slide1.jpg - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/ www.xtruline.com 200 0 0 79597 373 1571
+2016-09-09 10:37:33 W3SVC3236 GET /js/jquery.js - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/ www.xtruline.com 200 0 0 283209 343 5685
+2016-09-09 10:37:33 W3SVC3236 GET /images/slide-bg.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/css/skdslider.css www.xtruline.com 200 0 0 3191 392 246
+2016-09-09 10:37:34 W3SVC3236 GET /images/slide-bg-active.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/css/skdslider.css www.xtruline.com 200 0 0 3219 399 271
+2016-09-09 10:37:34 W3SVC3236 GET /images/slide5.jpg - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/ www.xtruline.com 200 0 0 51977 373 1253
+2016-09-09 10:37:35 W3SVC3236 GET /images/slide6.jpg - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/ www.xtruline.com 200 0 0 191773 373 3426
+2016-09-09 10:37:35 W3SVC3236 GET /images/socialmedia2.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/css/style.css www.xtruline.com 200 0 0 12338 392 1464
+2016-09-09 10:37:35 W3SVC3236 GET /images/slide2.jpg - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/ www.xtruline.com 200 0 0 111068 373 1855
+2016-09-09 10:37:38 W3SVC3236 GET /images/slide4.jpg - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/ www.xtruline.com 200 0 0 200337 373 4628
+2016-09-09 10:37:38 W3SVC3236 GET /favicon.ico - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/ www.xtruline.com 404 0 2 1405 342 91
+2016-09-09 10:37:40 W3SVC3236 GET /engine1/style.css - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 4693 376 172
+2016-09-09 10:37:40 W3SVC3236 GET /css/jquery.mCustomScrollbar.css - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 5900 390 190
+2016-09-09 10:37:40 W3SVC3236 GET /css/jquery.fancybox.css - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 4566 382 207
+2016-09-09 10:37:41 W3SVC3236 GET /products.html - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/ www.xtruline.com 200 0 0 23583 445 1142
+2016-09-09 10:37:43 W3SVC3236 GET /js/jquery-1.8.2.min.js - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 93699 366 2746
+2016-09-09 10:37:44 W3SVC3236 GET /js/jquery.fancybox.js - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 49714 365 3422
+2016-09-09 10:37:46 W3SVC3236 GET /engine1/jquery.js - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 93901 361 4829
+2016-09-09 10:37:46 W3SVC3236 GET /engine1/script.js - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 2554 361 117
+2016-09-09 10:37:47 W3SVC3236 GET /engine1/wowslider.js - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 14204 364 2432
+2016-09-09 10:37:47 W3SVC3236 GET /images/architecture-design.jpg - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 4788 399 1015
+2016-09-09 10:37:47 W3SVC3236 GET /images/high-quality-lighting.jpg - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 4374 401 995
+2016-09-09 10:37:47 W3SVC3236 GET /images/arow1.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/css/style.css www.xtruline.com 200 0 0 1274 385 98
+2016-09-09 10:37:47 W3SVC3236 GET /images/product-hdbg.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/css/style.css www.xtruline.com 200 0 0 4122 392 146
+2016-09-09 10:37:47 W3SVC3236 GET /images/arow4.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 3780 385 118
+2016-09-09 10:37:47 W3SVC3236 GET /images/arow3.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 3105 385 333
+2016-09-09 10:37:47 W3SVC3236 GET /images/product-banner.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/css/style.css www.xtruline.com 200 0 0 65980 394 1386
+2016-09-09 10:37:48 W3SVC3236 GET /images/flexible-1.jpg - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 17962 390 1575
+2016-09-09 10:37:48 W3SVC3236 GET /images/lighting_1.jpg - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 23189 390 1633
+2016-09-09 10:37:48 W3SVC3236 GET /images/about-bgline.jpg - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/css/style.css www.xtruline.com 200 0 0 10945 392 544
+2016-09-09 10:37:48 W3SVC3236 GET /data1/images/product1.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 18371 394 335
+2016-09-09 10:37:48 W3SVC3236 GET /images/trade-fair2.jpg - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 16809 391 663
+2016-09-09 10:37:48 W3SVC3236 GET /images/acrylic-tube.jpg - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 26709 392 639
+2016-09-09 10:37:48 W3SVC3236 GET /data1/images/product2.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 30131 394 652
+2016-09-09 10:37:48 W3SVC3236 GET /data1/images/product3.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 35499 394 825
+2016-09-09 10:37:49 W3SVC3236 GET /data1/images/product4.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 24415 394 723
+2016-09-09 10:37:49 W3SVC3236 GET /data1/images/product7.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 27282 394 503
+2016-09-09 10:37:49 W3SVC3236 GET /data1/images/product8.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 16493 394 318
+2016-09-09 10:37:49 W3SVC3236 GET /data1/images/product5.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 21646 394 891
+2016-09-09 10:37:49 W3SVC3236 GET /data1/images/product6.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 26592 394 758
+2016-09-09 10:37:49 W3SVC3236 GET /images/automotive.jpg - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 22781 390 1617
+2016-09-09 10:37:49 W3SVC3236 GET /data1/images/product11.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 21588 395 624
+2016-09-09 10:37:49 W3SVC3236 GET /data1/images/product9.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 17632 394 801
+2016-09-09 10:37:49 W3SVC3236 GET /data1/images/product10.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 28126 395 763
+2016-09-09 10:37:50 W3SVC3236 GET /data1/images/product12.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 32164 395 760
+2016-09-09 10:37:50 W3SVC3236 GET /data1/images/product13.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 24104 395 949
+2016-09-09 10:37:50 W3SVC3236 GET /data1/images/product14.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 29562 395 1018
+2016-09-09 10:37:50 W3SVC3236 GET /data1/images/product18.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 22265 395 383
+2016-09-09 10:37:50 W3SVC3236 GET /data1/images/product15.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 21991 395 559
+2016-09-09 10:37:50 W3SVC3236 GET /data1/images/product17.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 21813 395 476
+2016-09-09 10:37:50 W3SVC3236 GET /data1/images/product16.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 22322 395 608
+2016-09-09 10:37:50 W3SVC3236 GET /data1/images/product23.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 29035 395 515
+2016-09-09 10:37:51 W3SVC3236 GET /data1/images/product20.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 26048 395 849
+2016-09-09 10:37:51 W3SVC3236 GET /images/gallery-bg.jpg - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/css/style.css www.xtruline.com 200 0 0 11576 390 220
+2016-09-09 10:37:51 W3SVC3236 GET /engine1/arrows.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/engine1/style.css www.xtruline.com 200 0 0 2359 391 96
+2016-09-09 10:37:51 W3SVC3236 GET /images/gallery-botomshadow.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/css/style.css www.xtruline.com 200 0 0 9403 399 413
+2016-09-09 10:37:51 W3SVC3236 GET /data1/images/product19.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 26395 395 1526
+2016-09-09 10:37:51 W3SVC3236 GET /data1/images/product21.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 28855 395 1539
+2016-09-09 10:37:51 W3SVC3236 GET /data1/images/product24.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 25367 395 1497
+2016-09-09 10:37:51 W3SVC3236 GET /data1/images/product22.png - - 122.161.184.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://www.xtruline.com/products.html www.xtruline.com 200 0 0 22281 395 1592
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-09-09 12:01:28
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-09-09 12:01:27 W3SVC3236 GET /robots.txt - - 151.80.31.167 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.1;++http://ahrefs.com/robot/) - - www.xtruline.com 404 0 2 1405 177 649
+2016-09-09 12:01:31 W3SVC3236 GET /products.html - - 163.172.65.233 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.1;++http://ahrefs.com/robot/) - - www.xtruline.com 200 0 0 23583 180 1563
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-09-09 16:02:06
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-09-09 16:02:06 W3SVC3236 GET /robots.txt - - 45.79.71.122 HTTP/1.1 Mozilla/5.0+(compatible;+Uptimebot/1.0;++http://www.uptime.com/uptimebot) - http://uptime.com/xtruline.com xtruline.com 404 0 2 1405 246 615
+2016-09-09 16:02:06 W3SVC3236 HEAD / - - 45.79.71.122 HTTP/1.1 Mozilla/5.0+(compatible;+Uptimebot/1.0;++http://www.uptime.com/uptimebot) - http://uptime.com/xtruline.com xtruline.com 200 0 0 248 214 261

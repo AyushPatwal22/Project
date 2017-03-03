@@ -1,0 +1,174 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-06-01 18:49:14
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-06-01 18:49:14 W3SVC3236 GET /robots.txt - - 77.75.78.162 HTTP/1.1 Mozilla/5.0+(compatible;+SeznamBot/3.2;++http://napoveda.seznam.cz/en/seznambot-intro/) - - www.xtruline.com 404 0 2 1405 243 510
+2016-06-01 18:49:18 W3SVC3236 GET /images/tcp.jpg - - 77.75.78.162 HTTP/1.1 Mozilla/5.0+(compatible;+SeznamBot/3.2;++http://napoveda.seznam.cz/en/seznambot-intro/) - - www.xtruline.com 200 0 0 29141 247 1985
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-06-01 19:11:39
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-06-01 19:11:38 W3SVC3236 GET / - - 180.76.15.138 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - xtruline.com 200 0 0 5155 214 823
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-06-01 20:48:45
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-06-01 20:48:44 W3SVC3236 GET / - - 180.76.15.147 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.xtruline.com 200 0 0 5155 218 787
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-06-01 22:30:46
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-06-01 22:30:45 W3SVC3236 GET /robots.txt - - 66.249.64.75 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - xtruline.com 404 0 2 1405 222 688
+2016-06-01 22:30:48 W3SVC3236 GET / - - 66.249.64.70 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - xtruline.com 200 0 0 5136 415 798
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-06-01 23:32:35
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-06-01 23:32:35 W3SVC3236 GET /css/style.css - - 66.249.64.237 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - xtruline.com 200 0 64 0 242 448
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-06-02 00:02:59
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-06-02 00:02:58 W3SVC3236 GET /robots.txt - - 77.75.79.95 HTTP/1.1 Mozilla/5.0+(compatible;+SeznamBot/3.2;++http://napoveda.seznam.cz/en/seznambot-intro/) - - www.xtruline.com 404 0 2 1405 243 682
+2016-06-02 00:03:03 W3SVC3236 GET /images/laboratory.jpg - - 77.75.79.95 HTTP/1.1 Mozilla/5.0+(compatible;+SeznamBot/3.2;++http://napoveda.seznam.cz/en/seznambot-intro/) - - www.xtruline.com 200 0 0 5033 254 787
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-06-02 00:51:46
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-06-02 00:51:46 W3SVC3236 GET /index.html - - 180.76.15.15 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.xtruline.com 200 0 0 5155 228 849
+2016-06-02 00:51:46 W3SVC3236 GET / - - 180.76.15.155 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.xtruline.com 200 0 0 1735 218 435
+2016-06-02 01:06:45 W3SVC3236 GET /robots.txt - - 66.249.64.162 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.xtruline.com 404 0 2 1405 226 526
+2016-06-02 01:07:07 W3SVC3236 GET /js/skdslider.min.js - - 66.249.64.79 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://www.xtruline.com/ www.xtruline.com 200 0 0 5462 312 824
+2016-06-02 01:07:18 W3SVC3236 GET /js/jquery.js - - 66.249.64.79 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://www.xtruline.com/ www.xtruline.com 200 0 0 283209 305 13430
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-06-02 02:09:54
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-06-02 02:09:53 W3SVC3236 GET /enquiry.html - - 180.76.15.137 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.xtruline.com 200 0 0 17985 230 540
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-06-02 02:38:23
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-06-02 02:38:23 W3SVC3236 GET / - - 45.55.131.62 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:21.0)+Gecko/20100101+Firefox/21.0 - - xtruline.com 200 0 0 5136 353 998
+2016-06-02 02:38:25 W3SVC3236 GET /robots.txt - - 45.55.131.62 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) - - xtruline.com 404 0 2 1405 176 563
+2016-06-02 02:38:27 W3SVC3236 GET /index.html - - 45.55.131.62 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/34.0.1847.131+Safari/537.36 - http://xtruline.com xtruline.com 200 0 0 1716 405 565
+2016-06-02 02:38:28 W3SVC3236 GET /contact.html - - 45.55.131.62 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+rv:28.0)+Gecko/20100101+Firefox/28.0 - http://xtruline.com xtruline.com 200 0 0 6786 363 852
+2016-06-02 02:38:28 W3SVC3236 GET /media.html - - 45.55.131.62 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+rv:28.0)+Gecko/20100101+Firefox/28.0 - http://xtruline.com xtruline.com 200 0 0 8504 361 1125
+2016-06-02 02:38:28 W3SVC3236 GET /materials.html - - 45.55.131.62 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.75.14+(KHTML,+like+Gecko)+Version/7.0.3+Safari/537.75.14 - http://xtruline.com xtruline.com 200 0 0 15267 419 1159
+2016-06-02 02:38:28 W3SVC3236 GET /infrastructure.html - - 45.55.131.62 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:28.0)+Gecko/20100101+Firefox/28.0 - http://xtruline.com xtruline.com 200 0 0 10830 377 1167
+2016-06-02 02:38:28 W3SVC3236 GET /about.html - - 45.55.131.62 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:29.0)+Gecko/20100101+Firefox/29.0 - http://xtruline.com xtruline.com 200 0 0 11795 368 1131
+2016-06-02 02:38:28 W3SVC3236 GET /competences.html - - 45.55.131.62 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/34.0.1847.131+Safari/537.36 - http://xtruline.com xtruline.com 200 0 0 13619 411 1125
+2016-06-02 02:38:28 W3SVC3236 GET /enquiry.html - - 45.55.131.62 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.9;+rv:29.0)+Gecko/20100101+Firefox/29.0 - http://xtruline.com xtruline.com 200 0 0 17966 379 1406
+2016-06-02 02:38:28 W3SVC3236 GET /products.html - - 45.55.131.62 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/34.0.1847.131+Safari/537.36 - http://xtruline.com xtruline.com 200 0 0 23583 408 1437
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-06-02 03:24:54
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-06-02 03:24:54 W3SVC3236 GET /values.html - - 180.76.15.155 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - xtruline.com 200 0 0 4361 225 852
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-06-02 05:18:20
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-06-02 05:18:20 W3SVC3236 GET /robots.txt - - 77.75.76.169 HTTP/1.1 Mozilla/5.0+(compatible;+SeznamBot/3.2;++http://napoveda.seznam.cz/en/seznambot-intro/) - - www.xtruline.com 404 0 2 1405 243 557
+2016-06-02 05:18:31 W3SVC3236 GET /images/about-img.jpg - - 77.75.76.169 HTTP/1.1 Mozilla/5.0+(compatible;+SeznamBot/3.2;++http://napoveda.seznam.cz/en/seznambot-intro/) - - www.xtruline.com 200 0 0 23723 253 824
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-06-02 06:40:08
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-06-02 06:40:08 W3SVC3236 GET /contact.html - - 115.249.121.72 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.101+Safari/537.36 - https://www.google.co.in/ www.xtruline.com 200 0 0 6786 446 203
+2016-06-02 06:40:08 W3SVC3236 GET /css/skdslider.css - - 115.249.121.72 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.101+Safari/537.36 - http://www.xtruline.com/contact.html www.xtruline.com 200 0 0 2366 406 50
+2016-06-02 06:40:08 W3SVC3236 GET /js/skdslider.min.js - - 115.249.121.72 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.101+Safari/537.36 - http://www.xtruline.com/contact.html www.xtruline.com 200 0 0 5462 393 75
+2016-06-02 06:40:08 W3SVC3236 GET /images/logo.jpg - - 115.249.121.72 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.101+Safari/537.36 - http://www.xtruline.com/contact.html www.xtruline.com 200 0 0 31648 406 104
+2016-06-02 06:40:09 W3SVC3236 GET /css/style.css - - 115.249.121.72 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.101+Safari/537.36 - http://www.xtruline.com/contact.html www.xtruline.com 200 0 0 20573 402 386
+2016-06-02 06:40:09 W3SVC3236 GET /images/location-icon.png - - 115.249.121.72 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.101+Safari/537.36 - http://www.xtruline.com/contact.html www.xtruline.com 200 0 0 3363 415 18
+2016-06-02 06:40:09 W3SVC3236 GET /images/phone-icon.png - - 115.249.121.72 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.101+Safari/537.36 - http://www.xtruline.com/contact.html www.xtruline.com 200 0 0 3411 412 25
+2016-06-02 06:40:09 W3SVC3236 GET /images/email-icon.png - - 115.249.121.72 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.101+Safari/537.36 - http://www.xtruline.com/contact.html www.xtruline.com 200 0 0 3187 412 20
+2016-06-02 06:40:09 W3SVC3236 GET /images/fax-icon.png - - 115.249.121.72 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.101+Safari/537.36 - http://www.xtruline.com/contact.html www.xtruline.com 200 0 0 3416 410 12
+2016-06-02 06:40:09 W3SVC3236 GET /images/enqry-icon.png - - 115.249.121.72 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.101+Safari/537.36 - http://www.xtruline.com/contact.html www.xtruline.com 200 0 0 6615 412 11
+2016-06-02 06:40:09 W3SVC3236 GET /js/jquery.js - - 115.249.121.72 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.101+Safari/537.36 - http://www.xtruline.com/contact.html www.xtruline.com 200 0 0 283209 386 1135
+2016-06-02 06:40:11 W3SVC3236 GET /images/red-line.png - - 115.249.121.72 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.101+Safari/537.36 - http://www.xtruline.com/css/style.css www.xtruline.com 200 0 0 3083 411 20
+2016-06-02 06:40:11 W3SVC3236 GET /images/about-bgline.jpg - - 115.249.121.72 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.101+Safari/537.36 - http://www.xtruline.com/css/style.css www.xtruline.com 200 0 0 10945 415 35
+2016-06-02 06:40:11 W3SVC3236 GET /images/enqry-bg.png - - 115.249.121.72 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.101+Safari/537.36 - http://www.xtruline.com/css/style.css www.xtruline.com 200 0 0 9018 411 29
+2016-06-02 06:40:11 W3SVC3236 GET /images/socialmedia2.png - - 115.249.121.72 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.101+Safari/537.36 - http://www.xtruline.com/css/style.css www.xtruline.com 200 0 0 12338 415 26
+2016-06-02 06:40:11 W3SVC3236 GET /images/contact-banner.jpg - - 115.249.121.72 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.101+Safari/537.36 - http://www.xtruline.com/css/style.css www.xtruline.com 200 0 0 14009 417 40
+2016-06-02 06:40:12 W3SVC3236 GET /favicon.ico - - 115.249.121.72 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.101+Safari/537.36 - - www.xtruline.com 404 0 2 1405 338 13
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-06-02 08:02:15
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-06-02 08:02:15 W3SVC3236 GET /robots.txt - - 69.30.236.2 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.xtruline.com 404 0 2 1424 177 1371
+2016-06-02 08:02:19 W3SVC3236 GET / - - 69.30.236.2 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.xtruline.com 200 0 0 5155 378 784
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-06-02 09:55:41
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-06-02 09:55:41 W3SVC3236 GET /robots.txt - - 46.229.164.102 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/1.1~bl;++http://www.semrush.com/bot.html) - - www.xtruline.com 404 0 2 1424 206 685
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-06-02 11:28:32
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-06-02 11:28:31 W3SVC3236 GET /images/flexible-1.jpg - - 66.249.64.162 HTTP/1.1 Googlebot-Image/1.0 - - www.xtruline.com 200 0 0 17962 201 1559
+2016-06-02 11:30:32 W3SVC3236 GET /images/lighting_1_big.jpg - - 66.249.64.168 HTTP/1.1 Googlebot-Image/1.0 - - www.xtruline.com 304 0 0 211 255 298
+2016-06-02 11:32:35 W3SVC3236 GET /images/high-quality-lighting.jpg - - 66.249.64.171 HTTP/1.1 Googlebot-Image/1.0 - - www.xtruline.com 200 0 0 4374 212 828
+2016-06-02 11:40:44 W3SVC3236 GET /images/trade-fair2-big.jpg - - 66.249.64.162 HTTP/1.1 Googlebot-Image/1.0 - - www.xtruline.com 304 0 0 210 256 298
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-06-02 11:57:07
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-06-02 11:57:06 W3SVC3236 GET /images/architecture-design.jpg - - 66.249.64.162 HTTP/1.1 Googlebot-Image/1.0 - - www.xtruline.com 200 0 0 4788 210 842
+2016-06-02 11:59:09 W3SVC3236 GET /images/trade-fair2.jpg - - 66.249.64.171 HTTP/1.1 Googlebot-Image/1.0 - - www.xtruline.com 200 0 0 16809 202 1397
+2016-06-02 12:01:12 W3SVC3236 GET /images/acrylic-tube.jpg - - 66.249.64.168 HTTP/1.1 Googlebot-Image/1.0 - - www.xtruline.com 200 0 0 26709 203 1423
+2016-06-02 12:03:14 W3SVC3236 GET /images/automotive.jpg - - 66.249.64.162 HTTP/1.1 Googlebot-Image/1.0 - - www.xtruline.com 200 0 0 22781 201 1432
+2016-06-02 12:05:17 W3SVC3236 GET /images/lighting_1.jpg - - 66.249.64.168 HTTP/1.1 Googlebot-Image/1.0 - - www.xtruline.com 200 0 0 23189 201 1394
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-06-02 12:43:11
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-06-02 12:43:11 W3SVC3236 GET /robots.txt - - 178.63.13.15 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - xtruline.com 404 0 2 1424 173 510
+2016-06-02 12:43:13 W3SVC3236 GET /index.html - - 178.63.13.15 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - xtruline.com 200 0 0 5155 384 484
+2016-06-02 12:43:15 W3SVC3236 GET /materials.html - - 178.63.13.15 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - xtruline.com 200 0 0 15286 411 599
+2016-06-02 12:43:18 W3SVC3236 GET /vision.html - - 178.63.13.15 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - xtruline.com 200 0 0 4372 408 471
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-06-02 13:04:09
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-06-02 13:04:09 W3SVC3236 GET /robots.txt - - 5.255.253.111 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - xtruline.com 404 0 2 1405 182 584
+2016-06-02 13:04:12 W3SVC3236 GET /competences.html - - 5.255.253.111 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - xtruline.com 200 0 0 13619 293 301
+2016-06-02 13:07:50 W3SVC3236 GET /robots.txt - - 69.30.214.42 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - xtruline.com 404 0 2 1424 173 504
+2016-06-02 13:07:52 W3SVC3236 GET /about.html - - 69.30.214.42 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - xtruline.com 200 0 0 11814 384 949
+2016-06-02 13:07:56 W3SVC3236 GET /competences.html - - 69.30.214.42 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - xtruline.com 200 0 0 13638 413 1021
+2016-06-02 13:07:59 W3SVC3236 GET /contact.html - - 69.30.214.42 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - xtruline.com 200 0 0 6805 409 830
+2016-06-02 13:08:02 W3SVC3236 GET /enquiry.html - - 69.30.214.42 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - xtruline.com 200 0 0 17985 409 1391
+2016-06-02 13:08:04 W3SVC3236 GET /index.html - - 69.30.214.42 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - xtruline.com 200 0 0 5155 407 728
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-06-02 14:04:38
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-06-02 14:04:38 W3SVC3236 GET /robots.txt - - 173.234.153.122 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - xtruline.com 404 0 2 1424 173 699
+2016-06-02 14:04:40 W3SVC3236 GET /mission.html - - 173.234.153.122 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - xtruline.com 200 0 0 4363 386 880
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-06-02 14:36:52
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-06-02 14:36:51 W3SVC3236 GET /robots.txt - - 68.180.229.232 HTTP/1.1 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.xtruline.com 404 0 2 1405 162 711
+2016-06-02 14:36:52 W3SVC3236 GET /vision.html - - 68.180.229.232 HTTP/1.1 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.xtruline.com 200 0 0 4353 186 820
+2016-06-02 14:48:14 W3SVC3236 GET /robots.txt - - 45.79.66.14 HTTP/1.1 Mozilla/5.0+(compatible;+Uptimebot/0.1.43;++http://www.uptime.com/uptimebot) - - xtruline.com 404 0 2 1405 226 505
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-06-02 16:07:50
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-06-02 16:07:49 W3SVC3236 GET /engine1/script.js - - 180.76.15.10 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.xtruline.com 200 0 0 2573 235 725
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-06-02 16:24:49
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-06-02 16:24:48 W3SVC3236 GET / - - 180.76.15.147 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - xtruline.com 200 0 0 5155 214 650
+2016-06-02 16:39:08 W3SVC3236 GET /robots.txt - - 123.125.71.112 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - xtruline.com 404 0 64 1072 230 294
+2016-06-02 16:39:15 W3SVC3236 GET / - - 220.181.108.81 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - xtruline.com 200 0 0 5155 220 798
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-06-02 17:41:44
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-06-02 17:41:44 W3SVC3236 GET / - - 188.32.139.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - xtruline.com 200 0 0 5155 295 1126
+2016-06-02 17:54:45 W3SVC3236 GET /robots.txt - - 77.75.79.36 HTTP/1.1 Mozilla/5.0+(compatible;+SeznamBot/3.2;++http://napoveda.seznam.cz/en/seznambot-intro/) - - www.xtruline.com 404 0 2 1405 243 525
+2016-06-02 17:54:49 W3SVC3236 GET /images/acrylic-tube.jpg - - 77.75.79.36 HTTP/1.1 Mozilla/5.0+(compatible;+SeznamBot/3.2;++http://napoveda.seznam.cz/en/seznambot-intro/) - - www.xtruline.com 200 0 0 26709 256 1395

@@ -1,0 +1,92 @@
+.skdslider{
+ width:100%;
+ position: relative;
+ display: block;
+ overflow:hidden; height:520px;
+}
+
+.skdslider:after {
+    content: '';
+    padding-top: 50%; 
+    display: block;
+}
+
+.skdslider ul.slides{ margin:0; padding:0; list-style-type:none;}
+.skdslider ul.slides li
+{
+   display: none;
+}
+.skdslider ul.slides li img{
+    width: 100%; height:100%;
+	border:0;
+}
+
+.skdslider ul.slide-navs {
+    bottom:4px;
+    left:50%;
+    position: absolute;
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.skdslider ul.slide-navs li {float: left;
+	background: url("../images/slide-bg.png") no-repeat scroll 0 0 transparent;
+	height:12px;
+	width:12px;
+	margin-right:4px;
+	cursor:pointer;
+}
+.skdslider ul.slide-navs li.current-slide {background: url("../images/slide-bg-active.png") no-repeat scroll 0 0 transparent;}
+
+.skdslider .slide-desc {left: 0;
+    padding:0 10%;
+    position: absolute;
+    bottom:40%;
+    max-width:65%;
+	display:inline-block;
+}
+.skdslider .slide-desc > h2 {
+    color: #2a4e8c; font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin-bottom:10px;
+    margin-top:10px;
+}
+
+.skdslider .slide-desc > p {
+    color: #FFFFFF; font-family:Arial, Helvetica, sans-serif;
+    font-size:14px;
+    line-height:20px;
+    margin-top:20px;
+}
+.skdslider .slide-desc > p a.more {
+	background:#fff url(../images/logo-icon.png) 10px 7px no-repeat;
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	border-radius:2px;
+	display:inline-block;
+	cursor:pointer;
+	color:#666;
+	font-family:arial;
+	font-size:12px; text-transform:uppercase; font-weight:bold;
+	padding:5px 15px 5px 34px;
+	text-decoration:none;
+}
+.skdslider .slide-desc > p a.more:hover { color:#000;}
+.logoicon {width:12px!important; height:12px!important;}
+
+@media screen and (max-width:767px) {
+	.skdslider .slide-desc > h2 {
+		font-size: 20px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+	}
+	
+	.skdslider .slide-desc > p {
+		font-size: 14px;
+		line-height: 15px;
+		margin-top: 5px;
+	}
+	.skdslider .slide-desc > p a.more {
+		font-size:14px;
+	}
+}
